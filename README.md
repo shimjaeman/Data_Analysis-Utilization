@@ -19,7 +19,6 @@
 |  [심재만](https://github.com/)      |                                |
 |  [이정우](https://github.com/)      |                                |
 |  [이호진](https://github.com/)      |                                |
-|  [정진명](https://github.com/)      |                                |
 
 ## Tech Stack
 <div align=left> 
